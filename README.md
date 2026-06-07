@@ -3,7 +3,6 @@
 ![Versión](https://img.shields.io/badge/version-1.0-blue)
 ![Python](https://img.shields.io/badge/python-3.14-green)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-17-blue)
-![License](https://img.shields.io/badge/license-Proprietary-red)
 
 ## 📋 Descripción General
 
